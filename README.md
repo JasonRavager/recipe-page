@@ -24,7 +24,7 @@ The challenge is to build out this recipe page and get it looking as close to th
 
 ### Screenshot
 
-![Mobile Version](https://i.imgur.com/Mk0FItj.png)
+![Mobile Version](https://i.imgur.com/Mk0FItj.png) ![Desktop Version](https://i.imgur.com/im7EIdM.png)
 
 ### Links
 
@@ -42,7 +42,14 @@ The challenge is to build out this recipe page and get it looking as close to th
 
 ### What I learned
 
-I learned how to align list items in Tailwind and how to adjust the spacing, making sure the indentations are looks right.
+I learned how to align list items in Tailwind and how to adjust the spacing, making sure the indentations looks right by enclosing the list items in a `<div>` first.
+
+```
+<li><div class="pl-4">2-3 large eggs</div></li>
+<li><div class="pl-4">Salt, to taste</div></li>
+<li><div class="pl-4">Pepper, to taste</div></li>
+<li><div class="pl-4">1 tablespoon of butter or oil</div></li>
+```
 
 ## Author
 
