@@ -11,10 +11,7 @@ This is a solution to the [Recipe page challenge on Frontend Mentor](https://www
 - [My process](#my-process)
   - [Built with](#built-with)
   - [What I learned](#what-i-learned)
-  - [Continued development](#continued-development)
-  - [Useful resources](#useful-resources)
 - [Author](#author)
-- [Acknowledgments](#acknowledgments)
 
 ## Overview
 
@@ -29,6 +26,7 @@ The challenge is to build out this recipe page and get it looking as close to th
 ### Links
 
 - [Solution](https://github.com/JasonRavager/recipe-page)
+- [Live URL](https://recipe-page-three-iota.vercel.app/)
 
 ## My process
 
@@ -37,7 +35,6 @@ The challenge is to build out this recipe page and get it looking as close to th
 - Semantic HTML5 markup
 - CSS custom properties
 - Mobile-first workflow
-- [React](https://reactjs.org/) - JS library
 - [Tailwind CSS](https://tailwindcss.com/) - Tailwind CSS framework
 
 ### What I learned
