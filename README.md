@@ -24,7 +24,7 @@ The challenge is to build out this recipe page and get it looking as close to th
 
 ### Screenshot
 
-![Mobile Version](https://i.imgur.com/WvIaMLb.png)
+![Mobile Version](https://i.imgur.com/Mk0FItj.png)
 
 ### Links
 
